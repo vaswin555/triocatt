@@ -57,7 +57,7 @@ $$
 
 ## 📐 Визуализация структуры / Geometric Layout
 
-![Geometric Layout of Triocutt](https://githubusercontent.com)
+![Geometric Layout of Triocutt](Image_72e1c8dc.jpg)
 
 ---
 
